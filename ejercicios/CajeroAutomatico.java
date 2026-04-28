@@ -1,4 +1,4 @@
-
+package ejercicios;
 import java.util.Scanner;
 
 /*
@@ -14,7 +14,7 @@ Enunciado: Crea un menú interactivo que permita a un usuario:
 
 Requisitos: El programa no debe cerrarse hasta que el usuario elija la opción "Salir". Usa un do-while para mantener el menú activo.
 */
-public class Atm {
+public class CajeroAutomatico {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int opcion,saldo=1000;

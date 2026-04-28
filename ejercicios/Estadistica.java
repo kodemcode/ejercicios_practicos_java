@@ -1,3 +1,5 @@
+package ejercicios;
+
 /*
 Enunciado: Declara un arreglo de 10 números 
 enteros con valores aleatorios. 
